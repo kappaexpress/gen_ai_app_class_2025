@@ -23,7 +23,8 @@ export GEMINI_API_KEY="your_api_key_here"
 ## 使用方法
 
 ```bash
-python lesson_3/sample_1.py
+cd lesson_3
+python sample_1.py
 ```
 
 ## 注意事項
