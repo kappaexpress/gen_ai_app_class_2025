@@ -5,6 +5,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
+				"GitHub.copilot-chat",
+				"GitHub.copilot",
 				"ms-python.black-formatter"
 			]
 		}
