@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# 環境変数ファイル
+.env
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# データベースファイル
+*.db
+chat_history.db
